@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://innovatech.example/sitemap-index.xml
